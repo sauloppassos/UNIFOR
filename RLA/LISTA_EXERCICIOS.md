@@ -34,4 +34,24 @@ I --> Z
 11  SE NAO 
 12      ESCREVA "O numero deve ser positivo!"
 13 FIM_ALGORITMO
-``` 
+```
+
+
+
+
+
+
+# TESTE DE MESA 
+#### Teste
+#### EXERCICIO 01
+| numero | numero > 0 | resto | resto == 0 | Saída |
+| -- | -- | -- | -- | -- | 
+| -1 | F |   |   | "O número deve ser postivo!" |
+| 2 | V | 0 | V | "O número é par!" |
+| 3 | V | 1 | F | "O número é impar!" |
+| 8 | V | 0 | V | "O número é par!" |
+| 9 | V | 1 | F | "O número é ímpar!" |
+
+#### EXERCICIO 02 
+| número  |  número = n*3 | 
+
