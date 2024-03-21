@@ -1,13 +1,11 @@
 
-dd
-dd
 <img src="https://drive.google.com/uc?id=1SOzRTjUt7cuBJpSqoK90fcAiKBrnpUJo" width="400">
 
 **Curso:** Engenharia Civil <br>
 **Disciplina:** Raciocinio Lógico e ALgorítimo <br>
 **Código/Turma:** T998-21 <br>
 **Professor:** Ricardo Carubbi <br>
-**Data:** 20/03 <br>
+**Data:** 19/03 <br>
 **Aluno(a):** Saulo Passos Magalhães <br>
 **Matrícula:** 2410605 <br>
 
