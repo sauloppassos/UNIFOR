@@ -71,7 +71,7 @@ I --> J([FIM])
 #### Pseudocódigo (1 ponto)
 ```
 Algoritmo TrocaValores
-DECLARE A, B, Mem: float// declara as variaveis e o ponto de flutuacão 
+DECLARE A, B, Mem: float// declara as variaveis iniciais sendo numeros reais e inteiros! 
 INICIO
 ESCREVA "Digite o valor de A"
 LEIA A // variavel que atribui o valor a a
@@ -131,7 +131,7 @@ I --> Z([FIM])
 ```
 Algoritmo aprovação
 DECLARE N_ver, N_aprov, N_notas, i: Int  // Declaração de variáveis: 
-	notas: Float                        // Declaração da variável notas como ponto flutuante
+	notas: Float                        // Declaração das variaveis como numeros inteiros e reais!
 INICIO
 N_aprov = 0                            
 ESCREVA "Digite a quantidade de notas para avaliar" 
@@ -225,7 +225,7 @@ M --> N([FIM])
 ```
 Algoritmo soma_de_valores
 DECLARE num_somados, num_soma: Int        // Declaração de variáveis
-	num, soma: Float                   // Declarando que numeros sao reais
+	num, soma: Float                   // Declarando que numeros sao reais e inteiros 
 INICIO
 soma = 0                                 // Inicio da variável soma com 0
 ESCREVA "Digite o número de elementos do conjunto que você quer somar" 
@@ -322,7 +322,7 @@ K --> L([FIM])
 ```
 Algoritmo soma_da_serie
 DECLARE Num_termo, termo: Int   // Declaração das variáveis
-    S: Float                    // Declaração da variável S como número de ponto flutuante
+    S: Float                    // Declaração das variaveis como numeros inteiros e reais!
 INICIO
 S = 0                           
 ESCREVA "Digite a quantidade de termos da série que você quer somar"   
